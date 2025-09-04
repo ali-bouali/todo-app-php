@@ -428,7 +428,7 @@ $pendingTodos = $totalTodos - $completedTodos;
 
     <div class="container">
         <div class="header">
-            <h1><i class="fas fa-tasks"></i> TodoApp</h1>
+            <h1><i class="fas fa-tasks"></i> TodoApp - Title</h1>
             <p>Stay organized and productive with your modern task manager</p>
         </div>
 
